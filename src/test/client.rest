@@ -1,0 +1,7 @@
+POST http://localhost:3000/send
+Content-Type: application/json
+
+{
+    "message":"ishlar ishmi",
+    "to": "nabiyevfazliddin17@gmail.com"
+}
